@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="test.xsl"?> -->
+<events>
+	<evenementen>
+		<event>
+			<id>216</id>
+			<titel>
+				<![CDATA[Cursus Allround Conditie/Hersteltrainer]]>
+			</titel>
+			<thema>
+				<![CDATA[Opleiding]]>
+			</thema>
+			<omschrijving>
+				<![CDATA[12 woensdag avonden 
+Tijd 19.00-22.00 uur
+Locatie Papendal / Arnhem
+Startdatum 24 september 2014]]>
+			</omschrijving>
+			<startdatum>1411578000</startdatum>
+			<einddatum>1411588800</einddatum>
+			<eindeinschrijfdatum>1411509600</eindeinschrijfdatum>
+			<aanmeldenbij>
+				<![CDATA[www.toinevandegoolberg.nl]]>
+			</aanmeldenbij>
+			<organisatieemail>
+				<![CDATA[info@toinevandegoolberg.nl]]>
+			</organisatieemail>
+			<masseursnodig>0</masseursnodig>
+			<overig>
+				<![CDATA[NGS geaccrediteerd: 35 punten]]>
+			</overig>
+			<url>http://www.ngsmassage.nl/agenda/216</url>
+		</event>
+
+	</evenementen>
+
+	<ngsagenda>
+		<event>
+			<id>216</id>
+			<titel>
+				<![CDATA[Cursus Allround Conditie/Hersteltrainer]]>
+			</titel>
+			<thema>
+				<![CDATA[Opleiding]]>
+			</thema>
+			<omschrijving>
+				<![CDATA[12 woensdag avonden 
+Tijd 19.00-22.00 uur
+Locatie Papendal / Arnhem
+Startdatum 24 september 2014]]>
+			</omschrijving>
+			<startdatum>1411578000</startdatum>
+			<einddatum>1411588800</einddatum>
+			<eindeinschrijfdatum>1411509600</eindeinschrijfdatum>
+			<aanmeldenbij>
+				<![CDATA[www.toinevandegoolberg.nl]]>
+			</aanmeldenbij>
+			<organisatieemail>
+				<![CDATA[info@toinevandegoolberg.nl]]>
+			</organisatieemail>
+			<masseursnodig>0</masseursnodig>
+			<overig>
+				<![CDATA[Bijdrage à € 12,50. NGS geaccrediteerd: 35 punten]]>
+			</overig>
+			<url>http://www.ngsmassage.nl/agenda/216</url>
+		</event>
+		<event>
+			<id>69</id>
+			<titel>
+				<![CDATA[IOS]]>
+			</titel>
+			<thema>
+				<![CDATA[Ottawa rules (fase 4b)]]>
+			</thema>
+			<omschrijving>
+				<![CDATA[De Ottawa Ankle Rules (OAR) zijn aan te bevelen voor toepassing in de eerste lijn als onderdeel van de klinische besluitvorming door de zorgverlener. Dit om fracturen uit te sluiten na acuut lateraal enkelbandletsel.]]>
+			</omschrijving>
+			<startdatum>1416335400</startdatum>
+			<einddatum>1416346200</einddatum>
+			<eindeinschrijfdatum>1415055600</eindeinschrijfdatum>
+			<aanmeldenbij>
+				<![CDATA[Afdelingsbestuur Gelderland]]>
+			</aanmeldenbij>
+			<organisatieemail>
+				<![CDATA[ios.opgave@gmail.com]]>
+			</organisatieemail>
+			<docent>
+				<![CDATA[Marijke Blanken / Manon Wagenmans]]>
+			</docent>
+			<plekkenbeschikbaar>32</plekkenbeschikbaar>
+			<url>http://www.ngsmassage.nl/agenda/69</url>
+		</event>
+		<event>
+			<id>184</id>
+			<titel>
+				<![CDATA[Technische avond]]>
+			</titel>
+			<thema>
+				<![CDATA[Voet reflexzone therapie]]>
+			</thema>
+			<omschrijving>
+				<![CDATA[Demonstratie en uitleg, eventueel beoefenen van de diverse reflexzones in de voet.]]>
+			</omschrijving>
+			<startdatum>1416421800</startdatum>
+			<einddatum>1416430800</einddatum>
+			<eindeinschrijfdatum>0</eindeinschrijfdatum>
+			<aanmeldenbij>
+				<![CDATA[Niet verplicht]]>
+			</aanmeldenbij>
+			<accreditatiepunten>
+				<![CDATA[Aangevraagd]]>
+			</accreditatiepunten>
+			<docent>
+				<![CDATA[Wim Terporten]]>
+			</docent>
+			<plekkenbeschikbaar>20</plekkenbeschikbaar>
+			<url>http://www.ngsmassage.nl/agenda/184</url>
+		</event>
+		<event>
+			<id>192</id>
+			<titel>
+				<![CDATA[IOS]]>
+			</titel>
+			<thema>
+				<![CDATA[Ottawa rules (fase 4b)]]>
+			</thema>
+			<omschrijving>
+				<![CDATA[De Ottawa Ankle Rules (OAR) zijn aan te bevelen voor toepassing in de eerste lijn als onderdeel van de klinische besluitvorming door de zorgverlener. Dit om fracturen uit te sluiten na acuut lateraal enkelbandletsel.]]>
+			</omschrijving>
+			<startdatum>1416421800</startdatum>
+			<einddatum>1416432600</einddatum>
+			<eindeinschrijfdatum>1414796400</eindeinschrijfdatum>
+			<aanmeldenbij>
+				<![CDATA[Afdelingssecretariaat]]>
+			</aanmeldenbij>
+			<organisatieemail>
+				<![CDATA[friesland@sportverzorgingngs.nl]]>
+			</organisatieemail>
+			<docent>
+				<![CDATA[Thom van der Sloot en Wietske Wind]]>
+			</docent>
+			<plekkenbeschikbaar>32</plekkenbeschikbaar>
+			<url>http://www.ngsmassage.nl/agenda/192</url>
+			<afdelingen>
+				<afdeling><![CDATA[Afdeling Brabant-Oost]]></afdeling>
+				<afdeling><![CDATA[Afdeling Brabant-West]]></afdeling>
+				<afdeling><![CDATA[Afdeling Drenthe]]></afdeling>
+				<afdeling><![CDATA[Afdeling Friesland]]></afdeling>
+				<afdeling><![CDATA[Afdeling Gelderland]]></afdeling>
+				<afdeling><![CDATA[Afdeling Groningen]]></afdeling>
+				<afdeling><![CDATA[Afdeling Limburg]]></afdeling>
+				<afdeling><![CDATA[Afdeling Midden Nederland]]></afdeling>
+				<afdeling><![CDATA[Afdeling Noord Holland 1]]></afdeling>
+				<afdeling><![CDATA[Afdeling Noord Holland 2]]></afdeling>
+				<afdeling><![CDATA[Afdeling Twente]]></afdeling>
+				<afdeling><![CDATA[Afdeling West 1]]></afdeling>
+				<afdeling><![CDATA[Afdeling West 2]]></afdeling>
+				<afdeling><![CDATA[Afdeling Zeeland]]></afdeling>
+				<afdeling><![CDATA[Afdeling Zwolle]]></afdeling>
+			</afdelingen>
+		</event>
+	</ngsagenda>
+
+	<opleidingen>
+		<event>
+			<id>242</id>
+			<titel>
+				<![CDATA[Bindweefselmassage]]>
+			</titel>
+			<omschrijving>
+				<![CDATA[Een dysbalans in het vegetatieve zenuwstelsel kan vervelende en verstrekkende gevolgen hebben. Leer deze te (h)erkennen en te behandelen. U zult verstelt staan van de behaalde resultaten en uw clienten zullen u meer dan dankbaar zijn. Een meer dan waardevolle aanvulling voor de solistisch werkende (sport)masseur.]]>
+			</omschrijving>
+			<startdatum>1412287200</startdatum>
+			<eindeinschrijfdatum>1411682400</eindeinschrijfdatum>
+			<organisatie>
+				<![CDATA[BureauMENS]]>
+			</organisatie>
+			<aanmeldenbij>
+				<![CDATA[website opleider, menu: inschrijven]]>
+			</aanmeldenbij>
+			<organisatieemail>
+				<![CDATA[info@bureaumens.nl]]>
+			</organisatieemail>
+			<opleidertelefoonnummer>
+				<![CDATA[033-2589923]]>
+			</opleidertelefoonnummer>
+			<opleideremail>
+				<![CDATA[info@bureaumens.nl]]>
+			</opleideremail>
+			<opleiderwebsite>
+				<![CDATA[http://www.bureaumens.nl]]>
+			</opleiderwebsite>
+			<duur>
+				<![CDATA[6 vrijdagen]]>
+			</duur>
+			<dagdeel>
+				<![CDATA[vrijdagen: 13.30-18.00 u]]>
+			</dagdeel>
+			<gecommiteerdeaanwezig>
+				<![CDATA[Ja]]>
+			</gecommiteerdeaanwezig>
+			<accreditatiepunten>
+				<![CDATA[15]]>
+			</accreditatiepunten>
+			<locatie>
+				<![CDATA[Fonteinkerk - Robert Kochstraat 4 - 3812 JM  Amersfoort]]>
+			</locatie>
+			<url>http://www.ngsmassage.nl/agenda/242</url>
+		</event>
+		<event>
+			<id>243</id>
+			<titel>
+				<![CDATA[Manuele Lymfedrainagemassage]]>
+			</titel>
+			<omschrijving>
+				<![CDATA[Het onvolledig werkende afvoersysteem van ons lichaam kan aanleiding zijn voor allerlei klachten. Vervuiling van het milieu inetrieur ligt hieraan ten grondslag. Leer adequaat te (be)handelen bij verstoringen van het lymfatisch systeem. U zult beloond worden voor uw inspanningen en uw clienten zullen u zeer dankbaar zijn.]]>
+			</omschrijving>
+			<startdatum>1422572400</startdatum>
+			<eindeinschrijfdatum>1421967600</eindeinschrijfdatum>
+			<organisatie>
+				<![CDATA[BureauMENS]]>
+			</organisatie>
+			<aanmeldenbij>
+				<![CDATA[website opleider, menu: inschrijven]]>
+			</aanmeldenbij>
+			<organisatieemail>
+				<![CDATA[info@bureaumens.nl]]>
+			</organisatieemail>
+			<opleidertelefoonnummer>
+				<![CDATA[033-2589923]]>
+			</opleidertelefoonnummer>
+			<opleideremail>
+				<![CDATA[info@bureaumens.nl]]>
+			</opleideremail>
+			<opleiderwebsite>
+				<![CDATA[http://www.bureaumens.nl]]>
+			</opleiderwebsite>
+			<duur>
+				<![CDATA[6 vrijdagen]]>
+			</duur>
+			<dagdeel>
+				<![CDATA[vrijdagen: 13.30 - 18.00 u]]>
+			</dagdeel>
+			<gecommiteerdeaanwezig>
+				<![CDATA[Ja]]>
+			</gecommiteerdeaanwezig>
+			<accreditatiepunten>
+				<![CDATA[15]]>
+			</accreditatiepunten>
+			<locatie>
+				<![CDATA[Fonteinkerk - Robert Kochstraat 4 - 3812 JM  Amersfoort]]>
+			</locatie>
+			<url>http://www.ngsmassage.nl/agenda/243</url>
+		</event>
+
+	</opleidingen>
+</events>
+

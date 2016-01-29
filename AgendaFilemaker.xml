@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FMPXMLRESULT xmlns="http://www.filemaker.com/fmpxmlresult">
+  <ERRORCODE>0</ERRORCODE>
+  <PRODUCT BUILD="03-21-2013" NAME="FileMaker" VERSION="ProAdvanced 12.0v4"/>
+  <DATABASE DATEFORMAT="D-m-yyyy" LAYOUT="" NAME="NGS Administratie - Test.fmp12" RECORDS="1" TIMEFORMAT="k:mm:ss "/>
+  <METADATA>
+    <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="AanmeldenBij" TYPE="TEXT"/>
+    <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="AccreditatiePunten" TYPE="NUMBER"/>
+    <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Dagdeel" TYPE="TEXT"/>
+    <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Docent" TYPE="TEXT"/>
+    <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Duur" TYPE="TEXT"/>
+    <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="EindDatum" TYPE="NUMBER"/>
+    <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="EindeInschrijfDatum" TYPE="NUMBER"/>
+    <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Gecommiteerdeaanwezig" TYPE="TEXT"/>
+    <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Id" TYPE="NUMBER"/>
+    <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Locatie" TYPE="TEXT"/>
+    <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="MasseursNodig" TYPE="NUMBER"/>
+    <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Omschrijving" TYPE="TEXT"/>
+    <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="OpleiderEmail" TYPE="TEXT"/>
+    <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="OpleiderTelefoonNummer" TYPE="TEXT"/>
+    <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="OpleiderWebsite" TYPE="TEXT"/>
+    <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Organisatie" TYPE="TEXT"/>
+    <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="OrganisatieEmail" TYPE="TEXT"/>
+    <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Overig" TYPE="TEXT"/>
+    <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="PlekkenBeschikbaar" TYPE="NUMBER"/>
+    <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Prijs" TYPE="NUMBER"/>
+    <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="StartDatum" TYPE="NUMBER"/>
+    <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Thema" TYPE="TEXT"/>
+    <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Titel" TYPE="TEXT"/>
+    <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Url" TYPE="TEXT"/>
+  </METADATA>
+  <RESULTSET FOUND="1">
+    <ROW MODID="6" RECORDID="1">
+      <COL>
+        <DATA>www.toinevandegoolberg.nl]</DATA>
+      </COL>
+      <COL>
+        <DATA/>
+      </COL>
+      <COL>
+        <DATA/>
+      </COL>
+      <COL>
+        <DATA/>
+      </COL>
+      <COL>
+        <DATA/>
+      </COL>
+      <COL>
+        <DATA>1411588800</DATA>
+      </COL>
+      <COL>
+        <DATA>1411509600</DATA>
+      </COL>
+      <COL>
+        <DATA/>
+      </COL>
+      <COL>
+        <DATA>216</DATA>
+      </COL>
+      <COL>
+        <DATA/>
+      </COL>
+      <COL>
+        <DATA>0</DATA>
+      </COL>
+      <COL>
+        <DATA>12 woensdag avonden 
+Tijd 19.00-22.00 uur
+Locatie Papendal / Arnhem
+Startdatum 24 september 2014]</DATA>
+      </COL>
+      <COL>
+        <DATA/>
+      </COL>
+      <COL>
+        <DATA/>
+      </COL>
+      <COL>
+        <DATA/>
+      </COL>
+      <COL>
+        <DATA/>
+      </COL>
+      <COL>
+        <DATA>info@toinevandegoolberg.nl</DATA>
+      </COL>
+      <COL>
+        <DATA>NGS geaccrediteerd: 35 punten</DATA>
+      </COL>
+      <COL>
+        <DATA/>
+      </COL>
+      <COL>
+        <DATA/>
+      </COL>
+      <COL>
+        <DATA>1411578000</DATA>
+      </COL>
+      <COL>
+        <DATA>Opleiding</DATA>
+      </COL>
+      <COL>
+        <DATA>Cursus Allround Conditie/Hersteltrainer</DATA>
+      </COL>
+      <COL>
+        <DATA>http://www.ngsmassage.nl/agenda/216</DATA>
+      </COL>
+    </ROW>
+  </RESULTSET>
+</FMPXMLRESULT>
